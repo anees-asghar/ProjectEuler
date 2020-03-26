@@ -13,7 +13,7 @@ namespace ProjectEuler
                 int answer = i;
                 for (int j = 11; j <= 20; j++)
                 {
-                    // Check for any number between 11-20 which is not a factor of i
+                    // break if a number between 11-20 which is not a factor of i
                     if (i % j != 0)
                     {
                         answer = 0;
