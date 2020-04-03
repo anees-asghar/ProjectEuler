@@ -2,7 +2,7 @@
 
 namespace ProjectEuler
 {
-    class Problem_1
+    class Problem_001
     {
         static void main(string[] args)
         {

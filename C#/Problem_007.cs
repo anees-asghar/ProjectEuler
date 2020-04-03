@@ -2,7 +2,7 @@ using System;
 
 namespace EulerProject
 {
-    class Problem_7
+    class Problem_007
     {
         static void main(string[] args)
         {
